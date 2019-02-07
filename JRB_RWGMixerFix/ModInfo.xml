@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+	<ModInfo>
+		<Name value="_RWGMixerFix" />
+		<Description value="Changes spelling error of prop to prob, to stop rwg errors" />
+		<Author value="jrbarrio" />
+		<Version value="1.0" />
+
+	</ModInfo>
+</xml>
